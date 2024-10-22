@@ -36,7 +36,7 @@ O frontend deve permitir a criação e o gerenciamento de carteiras de forma int
 **Stack**: a critério do candidato  
 **Plus (opcional)**: Utilizar a nossa stack descrita no início do desafio.
 
-### Entregáveis
+#### Entregáveis
 - Deve ser possível criar uma nova conta de carteira com contas padrão.
 - Adicionar botões de ação para transferir dinheiro entre contas.
 - Exibir o saldo e o extrato de uma carteira.
