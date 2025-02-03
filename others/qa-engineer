@@ -1,0 +1,30 @@
+# Vaga: QA Engineer
+
+## Sobre a vaga
+Estamos em busca de um **QA Engineer** altamente motivado para se juntar ao nosso time. Você será responsável por garantir a qualidade e confiabilidade de nossas aplicações, colaborando na identificação, prevenção e resolução de problemas.
+
+## Responsabilidades
+- Criar, executar e manter testes automatizados e manuais.
+- Analisar requisitos e criar planos de testes detalhados.
+- Identificar, reportar e acompanhar defeitos de software.
+- Trabalhar em estreita colaboração com desenvolvedores, product managers e designers para garantir entregas de alta qualidade.
+- Desenvolver e melhorar pipelines de CI/CD para garantir a integração contínua dos testes.
+- Acompanhar métricas de qualidade e propor melhorias.
+
+## Requisitos
+### Obrigatórios
+- Experiência com testes automatizados (JUnit, Cypress, Jest ou similares).
+- Conhecimento em testes de API (Postman, etc.).
+- Experiência com metodologias ágeis (Scrum, Kanban).
+- Habilidade em escrever e manter casos de teste.
+- Conhecimento em ferramentas de controle de versão (Git).
+- Boa comunicação e capacidade de trabalho em equipe.
+
+### Diferenciais
+- Experiência com ferramentas de CI/CD (Azure Pipelines, GitHub Actions, etc.).
+- Conhecimento em bancos de dados SQL e NoSQL.
+- Experiência com testes de performance e segurança.
+- Familiaridade com programação (Java, Kotlin ou JavaScript).
+
+## Como se candidatar
+Envie seu currículo e/ou portfólio para **[ti@dexpay.com.br](ti@dexpay.com.br)** com o assunto **"Vaga QA Engineer - [Seu Nome]"**.
